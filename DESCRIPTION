@@ -1,8 +1,8 @@
 Package: LogisticDx
 Type: Package
-Title: Diagnostic Tests for Models with a Binomial Response
-Version: 0.2
-Date: 2015-07-01
+Title: Diagnostic Tests for Logistic Regression Models
+Version: 0.3
+Date: 2021-12-18
 Author: Chris Dardis
 Maintainer: Chris Dardis <christopherdardis@gmail.com>
 License: GPL (>= 2)
@@ -19,6 +19,7 @@ Collate: 'LogisticDx_package.R' 'OR.R' 'ageChd.R' 'bbdm.R' 'dx.R'
         'nhanes3.R' 'pcs.R' 'plotGlm.R' 'printGofGlm.R' 'printSSglm.R'
         'printSigGlm.R' 'sig.R' 'ss.R' 'uis.R'
 NeedsCompilation: no
-Packaged: 2015-07-08 16:45:34 UTC; c
+RoxygenNote: 7.1.2
+Packaged: 2021-12-20 11:04:49 UTC; cd
 Repository: CRAN
-Date/Publication: 2015-07-08 22:37:21
+Date/Publication: 2021-12-20 12:12:03 UTC
